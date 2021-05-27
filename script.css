@@ -1,0 +1,48 @@
+*
+{
+    padding: 10px;
+    margin: 10px;
+    box-sizing: border-box;
+    list-style: none;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h1
+{
+    font-size: 36px;
+    color: #F65252;
+}
+h3
+{
+    font-size: 16px;
+}
+#number
+{
+    width:300px;
+    height:50px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+#btnGuess
+{
+    background-color: white;
+    border: 1px solid black;
+    cursor: pointer;
+}
+#btnReset
+{
+    background-color: #337AB7;
+    border: 1px solid #337AB7;
+    border-radius: 3px;
+    width: 80px;
+    height: 50px;
+    cursor: pointer;
+}
+#btnSave
+{
+    background-color: white;
+    border: 1px solid black;
+    width: 70px;
+    cursor: pointer;
+}
+
